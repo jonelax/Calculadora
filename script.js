@@ -5,7 +5,7 @@
     var input;
     for(var i=0; i< btns.length; i++) {
 
-        var decimalAdded = false; // Flag used to avoid two decimal
+        var decimalAdded = false; // Para identigicar decimal
 
         btns[i].addEventListener('click', function () {
 
